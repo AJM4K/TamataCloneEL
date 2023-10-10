@@ -1,0 +1,195 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 13 Pro",
+        "description": "The iPhone 13 Pro features a new Super Retina XDR display with ProMotion.",
+        "price": 999.0,
+        "seller": "Apple Inc.",
+        "catagory": "Technology"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "description": "The Samsung Galaxy S21 features a Dynamic AMOLED 2X display and a high refresh rate.",
+        "price": 799.0,
+        "seller": "Samsung Electronics Co., Ltd.",
+        "catagory": "Mobiles"
+    },
+    {
+        "id": 3,
+        "name": "Levi's Men's 501 Original Fit Jeans",
+        "description": "These jeans feature a classic straight-leg styling with a button fly.",
+        "price": 59.99,
+        "seller": "Levi Strauss & Co.",
+        "catagory": "Clothes"
+    },
+    {
+        "id": 4,
+        "name": "Michael Kors Women's Jet Set Travel Tote",
+        "description": "This tote is made from Saffiano leather and has a polyester lining.",
+        "price": 168.0,
+        "seller": "Michael Kors",
+        "catagory": "Women"
+    },
+    {
+        "id": 5,
+        "name": "Nike Men's Air Force 1 Sneaker",
+        "description": "The Nike Air Force 1 Sneaker features a leather and synthetic upper for durability and comfort.",
+        "price": 90.0,
+        "seller": "Nike, Inc.",
+        "catagory": "Men"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "description": "This is product 6",
+        "price": 60.0,
+        "seller": "Seller 6",
+        "catagory": "Children"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "description": "This is product 7",
+        "price": 70.0,
+        "seller": "Seller 1",
+        "catagory": "Kitchen"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "description": "This is product 8",
+        "price": 80.0,
+        "seller": "Seller 2",
+        "catagory": "Technology"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "description": "This is product 9",
+        "price": 90.0,
+        "seller": "Seller 3",
+        "catagory": "Mobiles"
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "description": "This is product 10",
+        "price": 100.0,
+        "seller": "Seller 4",
+        "catagory": "Clothes"
+    },
+    {
+        "id": 11,
+        "name": "Product 11",
+        "description": "This is product 11",
+        "price": 110.0,
+        "seller": "Seller 5",
+        "catagory": "Women"
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "description": "This is product 12",
+        "price": 120.0,
+        "seller": "Seller 6",
+        "catagory": "Men"
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "description": "This is product 13",
+        "price": 130.0,
+        "seller": "Seller 1",
+        "catagory": "Children"
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "description": "This is product 14",
+        "price": 140.0,
+        "seller": "Seller 2",
+        "catagory": "Kitchen"
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "description": "This is product 15",
+        "price": 150.0,
+        "seller": "Seller 3",
+        "catagory": "Technology"
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "description": "This is product 16",
+        "price": 160.0,
+        "seller": "Seller 4",
+        "catagory": "Mobiles"
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "description": "This is product 17",
+        "price": 170.0,
+        "seller": "Seller 5",
+        "catagory": "Clothes"
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "description": "This is product 18",
+        "price": 180.0,
+        "seller": "Seller 6",
+        "catagory": "Women"
+    },
+    {
+        "id": 19,
+        "name": "Product 19",
+        "description": "This is product 19",
+        "price": 190.0,
+        "seller": "Seller 1",
+        "catagory": "Men"
+    },
+    {
+        "id": 20,
+        "name": "Product 20",
+        "description": "This is product 20",
+        "price": 200.0,
+        "seller": "Seller 2",
+        "catagory": "Children"
+    },
+    {
+        "id": 21,
+        "name": "Product 21",
+        "description": "This is product 21",
+        "price": 210.0,
+        "seller": "Seller 3",
+        "catagory": "Kitchen"
+    },
+    {
+        "id": 22,
+        "name": "Product 22",
+        "description": "This is product 22",
+        "price": 220.0,
+        "seller": "Seller 4",
+        "catagory": "Technology"
+    },
+    {
+        "id": 23,
+        "name": "Product 23",
+        "description": "This is product 23",
+        "price": 230.0,
+        "seller": "Seller 5",
+        "catagory": "Mobiles"
+    },
+    {
+        "id": 24,
+        "name": "Product 24",
+        "description": "This is product 24",
+        "price": 240.0,
+        "seller": "Seller 6",
+        "catagory": "Clothes"
+    }
+    
+]
